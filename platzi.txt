@@ -1,1 +1,3 @@
 ejemplo de git hub platzi cambio uno
+
+ejemplo de omitr un head
